@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Angelis Linares</title>
+      
+</head>
+
+ 
+
+<body>
+        <div>
+            <img src="cv.jpg" id="mifoto" width="150" aligh="left"
+            <h1> Angelis Abigail Linares Robles</h1>
+            <p> La Alhambra ,Calle i Casa 214A</p>
+            <P> Telefono: (+507) 62672719</P>
+            <fieldset>
+                <legend> Datos Generales </legend>
+                <ul>
+                    <li>Fecha de nacimiento: 18 de noviembre 2001</li>
+                    <li>Cedula : 8-977-1369</li>
+                    <li>Email : anyelisrobles18@gmail.com</li>
+                </ul>
+            </fieldset>
+            <fieldset>
+                <legend> Formacion </legend>
+                <ul>
+                    <li> Universidad Tecnologica de Panamá:Licenciatura de Desarrollo de Software </li>
+                    <li> Instituto Bilingue Internacional de Panamá:Ballicher Ciencia y Letras </li>
+                    <li> Universidad Interamerica de Panamá:Licenciatura En Ingeneria de Sistemas Computacionales </li>
+                </ul>
+            </fieldset>
+            <fieldset>
+                <legend> Experiencia </legend>
+                <ul>
+                    <li> Manejo de Base de Datos SQL</li>
+                    <li> Manejo de java</li>
+                    <li> Manejo de C++</li>
+
+                </ul>
+            </fieldset>
+            <fieldset>
+                <legend> Cursos</legend>
+                <ul>
+                    <li> Koe Panamá</li>
+                    <li> Cisco Networking Academy-Python</li>
+                </ul>
+            </fieldset>
+                
+        </div>
+</body>
+</html>
