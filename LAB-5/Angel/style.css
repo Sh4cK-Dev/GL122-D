@@ -1,0 +1,47 @@
+body{
+    background-color:azure
+}
+img{
+    border: 4px;
+    border-style: solid ;
+    border-color: cornflowerblue;
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:18px;
+    color: blue;
+}
+
+h2{
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+   text-decoration: none;
+   size: 24px;
+   color:blueviolet;
+}
+#UNI{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#COLE{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Datos{
+    color: blue;
+}
+header{
+    background-color: black;
+    height: 200px;
+}
+
+section{
+    background-color: cornflowerblue;
+}
+
+footer{
+    background-color: black;
+    height: 40px;
+}
