@@ -1,0 +1,69 @@
+body {
+  background-color: slategray;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Encabezado {
+  background-color: whitesmoke;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-top: 10px;
+  padding-bottom: 200px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.Nombre {
+  text-decoration: underline;
+}
+
+.ImgCara {
+  border-style: groove;
+  margin-left: 80px;
+  margin-right: 50px;
+  margin-top: -50px;
+  float: right;
+}
+
+.floatLeft {
+  float: left;
+}
+
+.InfContacto {
+  float: left;
+  font-size: medium;
+  font-weight: bold;
+}
+div ul li {
+  list-style: none;
+}
+div h2 {
+  text-decoration: underline;
+  font-size: medium;
+}
+
+.ContenedorContenido {
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: whitesmoke;
+}
+
+.Contenido {
+  display: inline-block;
+  margin-right: 5%;
+  background-color: #a9d4db;
+}
+
+section h2 {
+  margin-left: 1%;
+  text-decoration: underline;
+}
+
+section ul li {
+  margin-left: 1%;
+}
+section div ul li {
+  margin-left: 0%;
+}
