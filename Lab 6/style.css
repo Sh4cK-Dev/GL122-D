@@ -1,0 +1,204 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+header{
+    position: relative;
+    background-color: black;
+    width: 1107px;
+    height: 97px;
+    margin: 2px auto;
+}
+
+#title{
+    position: relative;
+    top:20px;
+    color: white;
+    text-align: center;
+}
+
+#group{
+    position: relative;
+    top: 20px;
+    color: white;
+    text-align: center;
+}
+
+nav{
+    position: relative;
+    width: 1107px;
+    height: 49px;
+    background-color: lightskyblue;
+    margin: 10px auto;
+}
+
+#boton1{
+    position: absolute;
+    float: left;
+    width: 98px;
+    height: 27px;
+    background-color: red;
+    border-radius: 35px;
+    border: 2px solid black;
+    margin: 10px;
+    left: 150px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#boton2{
+    position: absolute;
+    float: left;
+    width: 98px;
+    height: 27px;
+    background-color: lightsalmon;
+    border-radius: 35px;
+    border: 2px solid black;
+    margin: 10px;
+    left: 480px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#boton3{
+    float: left;
+    position: absolute;
+    width: 98px;
+    height: 27px;
+    background-color: lightgreen;
+    border-radius: 35px;
+    border: 2px solid black;
+    margin: 10px;
+    right: 150px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#section1{
+    position: relative;
+    width: 1107px;
+    height: 361px;
+    background-color:lightcoral;
+    margin: 5px auto;
+}
+
+#arcticle1{
+    position: absolute;
+    width: 233px;
+    height: 200px;
+    margin: 80px auto;
+    left: 40px;
+    padding: 15px;
+}
+
+#messi{
+    width: 150px;
+    height: 150px;
+    margin: 20px 40px;
+}
+
+figure{
+    margin:0;
+    display: inline-block;
+    position: relative;
+}
+
+figcaption{
+    display: none;
+    position: absolute;
+    left: 0px;
+    bottom:0px;
+    background-color: darkgray;
+    width: 94%;
+    padding: 7%;
+    margin: 5px auto;
+}
+figure:hover figcaption{
+    display: block;
+}
+
+#article2{
+    position: absolute;
+    width: 233px;
+    height: 200px;
+    margin: 80px auto;
+    left: 420px;
+    padding: 15px;
+}
+
+#cristiano{
+    width: 150px;
+    height: 150px;
+    margin: 20px 40px;
+}
+
+#article3{
+    position: absolute;
+    width: 233px;
+    height: 200px;
+    margin: 80px auto;
+    right: 70px;
+    padding: 15px;
+}
+
+#neymar{
+    width: 150px;
+    height: 150px;
+    margin: 20px 40px;
+}
+
+#section2{
+    position: relative;
+    width: 1107px;
+    height: 361px;
+    background-color: lightslategray;
+    margin: 5px auto;
+}
+
+#Germany{
+    width: 1107px;
+    height: 361px;
+    opacity: 60%;
+}
+
+#Ger{
+    position: absolute;
+    text-align: center;
+    top:10px;
+    left:470px;
+    margin-top: 140px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer{
+    position: relative;
+    background-color: black;
+    width: 1107px;
+    height: 180px;
+    margin: 5px auto;
+}
+
+#logoutp{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    left: 5px;
+}
+
+#logofisc{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    right: 5px;
+}
